@@ -38,7 +38,8 @@ lab1/
 pip install anthropic
 
 # Set your API key (for LLM agent only):
-export ANTHROPIC_API_KEY='your-key-here'
+export GROQ
+_API_KEY='your-key-here'
 ```
 
 ---
